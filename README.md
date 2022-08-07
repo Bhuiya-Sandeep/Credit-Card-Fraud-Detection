@@ -1,4 +1,4 @@
-# Credit-Card_Detection
+# Credit Card Detection
 ### Case
 Assume that you are employed to help a credit card company to detect potential fraud cases so that the customers are ensured that they won’t be charged for the items they did not purchase. You are given a dataset containing the transactions between people, the information that they are fraud or not, and you are asked to differentiate between them. This is the case we are going to deal with. Our ultimate intent is to tackle this situation by building classification models to classify and distinguish fraud transactions.
 ### Steps Involved
